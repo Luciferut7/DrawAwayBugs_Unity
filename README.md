@@ -33,17 +33,6 @@ Welcome to Draw Away Bugs! This is a unique bug tracking and debugging tool that
 3. Use the drawing tools to highlight and annotate bugs.
 4. Save and share your bug drawings.
 
-## Contributing
-
-If you want to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-
 ## Acknowledgments
 
 - Special thanks to "Abhishek" for the creative bug drawing concept.
